@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d64e1f7b.css",
+    "main.js": "/static/js/main.7a3776c7.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.8e105b96.chunk.js": "/static/js/769.8e105b96.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/ahil_uni.jpg": "/static/media/ahil_uni.a863733ca868d880dd84.jpg",
+    "static/media/andela.jpg": "/static/media/andela.d94b04c80c007c4dd2a4.jpg",
+    "static/media/rehla.png": "/static/media/rehla.bbe26d2c720ed21b69ad.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/chromozoom.png": "/static/media/chromozoom.85df096b111397289d5c.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/rukn.png": "/static/media/rukn.ff52472d1088117a4cee.png",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "index.html": "/index.html",
+    "main.d64e1f7b.css.map": "/static/css/main.d64e1f7b.css.map",
+    "main.7a3776c7.js.map": "/static/js/main.7a3776c7.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.8e105b96.chunk.js.map": "/static/js/769.8e105b96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64e1f7b.css",
+    "static/js/main.7a3776c7.js"
+  ]
+}
